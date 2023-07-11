@@ -23,7 +23,7 @@ cd scientific-calculator
 
 3.Run the calculator:
 
-python calculator.py
+cal.py
 
 Usage
 Launch the calculator by running the calculator.py script.
